@@ -1,7 +1,7 @@
 +++
 author = "Henry Thoreau"
 date = 2019-11-03T23:00:00Z
-hero = "/images/davisco-5E5N49RWtbA-unsplash.jpg"
+hero = "/images/IMG_20190714_141834.jpg"
 title = "All about cats"
 type = "blog"
 
@@ -10,7 +10,7 @@ type = "blog"
 
 ## Totidem et unum patrem magne heros
 
-*Lorem markdownum superos* ante filia mihi vestrum protectum numina coniuge
+_Lorem markdownum superos_ ante filia mihi vestrum protectum numina coniuge
 fiducia silvas! Taurum omne texerat rubet tibi dote radiis iras, haec quam et
 toto. Verboque non modulata o parte adspicit **data pugnantemque** abesse manum.
 
@@ -20,6 +20,8 @@ Illa palluit ponti increvisse genitore extemplo verba. Succedere
 [labores](http://vivo-redimicula.com/) magnis; posita atque Cereris arcum
 [faciat talibus](http://lumen.com/). Non sequentis se patriae tantum, doctae
 iterum solis **quaerit dabit his** traiecit gramina non!
+
+![](/images/IMG_20190802_173039.jpg)
 
 ## Soli hominis vulnera ramis petitam ingreditur barbaque
 
@@ -66,8 +68,8 @@ Fatebor inpulsos neptem, liquida ducit quaerens exstinctus vulnera partes,
 gemitus. Flamma remige pharetratus dixit versum adest et legit gregis, o dotalem
 beatus.
 
-*Fuerat* in merere dicere ipse illa caecis deque stravit non duri, illud coepta,
-coniugis quod nam. Suo singultuque addit extemplo via rogat pumice, quam *hos*
+_Fuerat_ in merere dicere ipse illa caecis deque stravit non duri, illud coepta,
+coniugis quod nam. Suo singultuque addit extemplo via rogat pumice, quam _hos_
 contemptrix area tamen.
 
 Depositae postquam sedet inrita sanguinis sequitur pavor et causa et sed Peneos
