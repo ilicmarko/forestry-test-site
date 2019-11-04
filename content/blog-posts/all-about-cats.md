@@ -1,7 +1,6 @@
 +++
 author = "Henry Thoreau"
 date = 2019-11-03T23:00:00Z
-draft = true
 hero = "/images/davisco-5E5N49RWtbA-unsplash.jpg"
 title = "All about cats"
 type = "blog"
