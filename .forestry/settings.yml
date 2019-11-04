@@ -7,8 +7,6 @@ sections:
 - type: document
   path: cats
   label: Cats
-  match: "**/*"
-  read_only: false
 - type: heading
   label: Content
 - type: document
