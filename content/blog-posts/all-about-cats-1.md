@@ -1,13 +1,12 @@
 +++
 author = "Henry Thoreau"
 date = 2019-11-03T23:00:00Z
-draft = true
 hero = "/images/IMG_20190714_141834.jpg"
 title = "All about cats"
 type = "blog"
 
 +++
-# Unum illa coactis Troica cognoscite contermina pete
+# Poy
 
 ## Totidem et unum patrem magne heros
 
