@@ -31,4 +31,5 @@ fields:
   name: hero
   label: Hero Image
 pages:
+- content/blog-posts/all-about-cats-1.md
 - content/blog-posts/all-about-cats.md
