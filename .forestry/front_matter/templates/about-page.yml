@@ -37,5 +37,33 @@ fields:
     description: Enter contact email here
   label: contact info
   description: Enter contact info here
+- name: test
+  type: field_group
+  config: {}
+  fields:
+  - name: select_blogs
+    type: select
+    default: ''
+    config:
+      required: false
+      options: []
+      source:
+        type: documents
+        section: blog-posts
+        file: 
+        path: 
+    label: Select Blogs
+  - name: projects
+    type: list
+    config:
+      use_select: true
+      min: 
+      max: 
+      source:
+        type: documents
+        section: authors-list
+    label: Projects
+  label: Test
+  description: Test group
 pages:
 - content/about/info.md
